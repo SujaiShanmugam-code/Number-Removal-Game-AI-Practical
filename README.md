@@ -23,3 +23,12 @@ This project is a **two-player game** where a human competes against the compute
   
 - **Instructor - (Alla.anohina-naumeca , RTU FCSITE PROF)**  
 
+##  🎮 🕹 Software UI (Demo)
+
+<img width="561" alt="Screenshot 2025-03-30 at 10 31 32 PM" src="https://github.com/user-attachments/assets/71d5f5cc-49f4-48a2-a244-a80d173ae37b" />
+<img width="869" alt="Screenshot 2025-03-30 at 10 31 44 PM" src="https://github.com/user-attachments/assets/4f38afd5-0990-489c-bacf-c3d59c73e787" />
+<img width="484" alt="Screenshot 2025-03-30 at 10 31 51 PM" src="https://github.com/user-attachments/assets/5615f4a9-9dba-4df1-933e-2266547323aa" />
+
+## 📝 Report Link (GoogleDoc)
+
+- https://docs.google.com/document/d/1YAeOnOUomi5U5XOblCekFRoDxj9UK6tC/edit
